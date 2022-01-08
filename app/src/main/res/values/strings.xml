@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="action_notifications">Notifications</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="name">name</string>
+    <string name="Login">Login</string>
+    <string name="Signup">Signup</string>
+    <string name="Pleaselogintoyouraccount">Please login to your account.</string>
+    <string name="PleaseSignuptoyouraccount">Please Signup to your account.</string>
+    <string name="loginwith">or login with</string>
+    <string name="Signupwith">or Signup with</string>
+    <string name="Donnothaveanaccount">Don’t have an account?</string>
+    <string name="alreadyhaveanaccount">Already have an account</string>
+    <string name="TermsConditions">By signing up, you are agree with our</string>
+    <string name="Createnewnow">Createnewnow</string>
+    <string name="Logintoaccount">Login to your account</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="search">Search</string>
+    <string name="agree">By signing up, you are agree with our</string>
+    <string name="Terms">Terms and Conditions</string>
+    <string name="AddYourFarmContents">Add your farm contents </string>
+
+
+    <string name="title_activity_home_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_discussion">Discussion Room</string>
+    <string name="title_add">Add Farm</string>
+    <string name="title_create">Create Farm</string>
+    <string name="title_messages">Message</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_language">language</string>
+
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="user_name">Hi,</string>
+    <string name="text">Find Your Farm!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hothouse_plant">Hothouse Plant</string>
+    <string name="green_house">Green House</string>
+    <string name="irrigation_sources">Irrigation Sources</string>
+    <string name="field_crops">Field Crops</string>
+    <string name="workforce">Workforce</string>
+    <string name="tools_equipment"><![CDATA[Tools & equipment]]></string>
+    <string name="add_your_description">AddYourDescription</string>
+    <string name="please_fill_data">Please fill data</string>
+    <string name="select_farm_owner">Select Farm Owner</string>
+    <string name="company">Company</string>
+    <string name="person">Person</string>
+    <string name="please_select_one_least">Please select one at least</string>
+    <string name="please_login_first">Please login first</string>
+    <string name="fail_add_farm">Fail add farm</string>
+    <string name="fail_category">Fail add category</string>
+    <string name="succes_add_farm">Success add farm</string>
+    <string name="please_wait_sending">Please wait sending</string>
+    <string name="meter">m</string>
+    <string name="fail_get_farms_list">Fail to get farms list</string>
+    <string name="please_wait_loading">Please wait loading</string>
+    <string name="fail_get_farm_categories">Fail get farm categories</string>
+    <string name="ground_water">Ground Water</string>
+    <string name="well">Well</string>
+    <string name="tank">Tank</string>
+    <string name="success_add">Success Add</string>
+    <string name="fail_add">Fail Add</string>
+
+
+    <string name="invalid_input">Invalid Input</string>
+    <string name="please_add_photo">Please add photo</string>
+    <string name="success_add_post">Succes add post</string>
+    <string name="fail_add_post">Fail add post</string>
+    <string name="font_size">Font Size</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+    <string name="normal">Normal</string>
+    <string name="save">Save</string>
+    <string name="message">Message</string>
+    <string name="fail_get_data">Fail to get data</string>
+    <string name="favorite">Favorites</string>
+    <string name="success_send_message">Success Sending Message</string>
+    <string name="fail_send_message">Fail Sending Message</string>
+    <string name="fail_read_data">faild to Read Message</string>
+    <string name="message_empty">Message Empty</string>
+
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="fail">fail</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="please_wait">Please Wait</string>
+
+    <string name="success_add_event">Succes Add Event</string>
+    <string name="fail_add_event">Fail Add Event</string>
+    <string name="engineer">Engineer</string>
+    <string name="farmer">Farmer</string>
+    <string name="need_to_chat_with_friend">You Do Not Have Any Chats Yet</string>
+    <string name="only_engineers_have_permission">Only engineers have permissions to add farms</string>
+    <string name="cancel">Cancel</string>
+    <string name="guest">Guest</string>
+    <string name="user_not_exist">User not exist</string>
+    <string name="fail_to_login">Fail to login</string>
+    <string name="posts">Posts</string>
+    <string name="farms">Farms</string>
+    <string name="not_has_any_farm">Not has any farm</string>
+    <string name="add_your_first_crop">Add your first crop</string>
+    <string name="should_allow_permission">Shoull allow permission</string>
+    <string name="some_permission_denied">Some permissions denied</string>
+    <string name="you_are_not_added_any_farms">You are not added to any farm</string>
+    <string name="please_select_photo">Please select photo</string>
+    <string name="farmers">Farmers</string>
+    <string name="categories">Categories</string>
+    <string name="add_farmer">Add Farmer</string>
+    <string name="fail_get_farm_farmers">Fail to get farm farmers</string>
+    <string name="success_add_farmer">Success add farmer</string>
+    <string name="fail_add_farmer">Fail add farmer</string>
+    <string name="fail_to_get_farms">Fail to get farms</string>
+    <string name="you_are_not_added_to_any_farm">You are not added to any farm</string>
+    <string name="error_in_user">Error in user</string>
+
+</resources>
